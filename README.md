@@ -1,6 +1,6 @@
-# ArchMind Privacy Policy
+# ArchRill Privacy Policy
 
-This public repository hosts the official privacy policy for ArchMind by
+This public repository hosts the official privacy policy for ArchRill by
 Arch Builder.
 
 - Developer: Arch Builder
